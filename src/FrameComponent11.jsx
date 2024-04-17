@@ -22,14 +22,14 @@ const FrameComponent11 = () => {
                       Chest
                     </div>
                   </div>
-                  <div className="h-[3.938rem] w-[3.938rem] relative z-[4] flex items-center justify-center">
-                    <img
-                      className="h-full w-full z-[4] object-contain absolute left-[0rem] top-[0.25rem] [transform:scale(1.206)]"
-                      loading="lazy"
-                      alt=""
-                      src={search}
-                    />
-                  </div>
+                  <div className="h-[3.938rem] w-[3.938rem] absolute !m-[0] top-[42rem] z-50 left-[calc(50%_-_31.5px)] flex items-center justify-center">
+            <img
+              className="h-full w-full z-[1] object-contain absolute left-[0rem] top-[0.25rem] [transform:scale(1.206)]"
+              loading="lazy"
+              alt=""
+              src={search}
+            />
+          </div>
                 </div>
               </div>
             </div>

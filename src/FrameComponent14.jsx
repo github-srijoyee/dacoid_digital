@@ -46,10 +46,10 @@ const FrameComponent14 = () => {
                   </div>
                   <div className="w-[13.419rem] flex flex-col items-start justify-start py-[0rem] pr-[0rem] pl-[1.25rem] box-border gap-[0.075rem] text-left text-[0.7rem]">
                     <div className="self-stretch flex flex-row items-start justify-between gap-[1.25rem]">
-                      <div className="w-[3.813rem] relative inline-block">
+                      <div className="w-[3.813rem] relative inline-block lg:hidden">
                          Good job
                       </div>
-                      <div className="w-[6.188rem] relative inline-block">
+                      <div className="w-[6.188rem] relative inline-block lg:hidden">
                          less then 320cal
                       </div>
                     

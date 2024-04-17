@@ -14,6 +14,7 @@ function App() {
 
   return (
     <>
+    <h2 className='bg-cornflowerblue-200 rounded-lg px-1 py-2'>Please view in mobile or view using mobile dimensions as these are the mobile versions of the designs</h2>
     <h4>Android Large-1</h4>
      <AndroidLarge1/>
      <h4>Android Large-2</h4>
