@@ -2,7 +2,7 @@ import chevronleft from "./assets/chevronleft.svg";
 import cellularconnection from "./assets/cellularconnection.svg";
 import wifi from "./assets/wifi.svg";
 import union from "./assets/union.svg";
-import alert from "./assets/alert.svg"
+import alert from "./assets/alert.png"
 
 
 const FrameComponent14 = () => {
